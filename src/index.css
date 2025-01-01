@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+}
+
+header {
+  background-color: #21222A;
+}
+
+nav {
+  display: flex;
+  padding: 20px 15px;
+  align-items: center;
+}
+
+nav > img {
+  width: 55px;
+}
+
+nav > span {
+  color: #61DAFB;
+  padding-left: 10px;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
